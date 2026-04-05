@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    
+
+    <title>amazon-logo.jpg</title>
+
+    <style type="text/css" media="screen">
+    body {
+        background-color: white;
+        color: black;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        padding:0;
+        margin:0;
+    }
+    a {
+        color: #08c;
+        text-decoration: none;
+        text-align:center;
+    }
+      a:hover {text-decoration:underline;}
+      a span {
+          display:block;
+          line-height:1.5em;
+          padding:12px;
+      }
+
+    img {
+        border: 0;
+        display:block;
+        margin:0 auto;
+    }
+
+    </style>
+
+</head>
+
+<body>
+
+<div id="content-core">
+    <a href="https://www.google.com/search?sca_esv=823508c78d029fc5&amp;sxsrf=AE3TifMziXpLd8fS6SEpZTZ7dwnuSJu7SA:1750021787608&amp;q=image+amazon+jpg&amp;udm=2&amp;fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIemkjk18Cn72Gp24fGkjjh6wQFVCbKXb4P6swJy4x5wjmC_909EqiJuKoJVBAt1bQqxuAxTVm5FaXw1YXOj1toa93MgtLWNHlyYcnzIWHp220TErg7gn-Y8p08esvnnIJ7lzGBskEXCzkzAsQ_a7_1nusqXADqdF6UT5r4_-4dixrdcDcvg&amp;sa=X&amp;ved=2ahUKEwijr_-Xq_SNAxWCSfEDHd2zFW8QtKgLegQIExAB&amp;biw=1031&amp;bih=602&amp;dpr=1#vhid=z2SXNoICjeRWtM&amp;vssid=mosaic"><span>Back to site</span>
+    <img src="https://www.marcellus.michlibrary.org/site-assets/images/amazon-logo.jpg/@@images/image.jpeg" alt="amazon-logo.jpg" title="amazon-logo.jpg" height="562" width="1000" />
+  </a>
+
+    
+</div>
+
+</body>
+</html>

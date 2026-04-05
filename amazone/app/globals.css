@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+:root{
+  --amazon-darkmod:#131921;
+  --amazon-blue:#232F3E;
+}
+
+@theme {
+  --color-amazon-darkmod: var(--amazon-darkmod);
+  --color-amazon-blue: var(--amazon-blue);
+
+}
+/* hide Next.js dev error overlay / dev toolbar (dev only) */
+.nextjs-toast-errors-parent,
+.nextjs-toast-errors,
+.nextjs-container-errors,
+.nextjs-container-errors-header,
+.nextjs-toast-errors-hide-button,
+.nextjs-overlay,
+.react-dev-overlay,
+.__next-dev-overlay,
+#__next_dev_overlay,
+#__next_error_overlay {
+  display: none !important;
+  pointer-events: none !important;
+  opacity: 0 !important;
+}
+.my-element::-webkit-scrollbar {
+  display: none;
+}
+@keyframes animate {
+  0% {
+    
+    transform: translateY(-3000px);
+   }
+  50% {
+     transform: translateY(-100px); 
+  }
+  100% {
+     transform: translateY(-30000x); }
+}
+.animation {
+   animation-iteration-count:1; 
+  animation:animate 5s ease-in-out;
+}
